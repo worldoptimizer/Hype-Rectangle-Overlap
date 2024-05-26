@@ -1,5 +1,5 @@
 /*!
- * Hype Rectangle Overlap Extension
+ * Hype Rectangle Overlap Extension v1.0.0
  * Copyright (2024) Max Ziebell, (https://maxziebell.de). MIT-license
  */
 
