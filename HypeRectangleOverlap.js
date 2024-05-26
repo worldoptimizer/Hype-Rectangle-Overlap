@@ -5,7 +5,7 @@
 
 /*
  * Version-History
- * 1.0.0 Inital release under MIT-license
+ * 1.0.0 Initial release under MIT-license
  */
 
 // Ensure the extension isn't redefined
